@@ -1,0 +1,34 @@
+{
+  "name": "SEO hobby EXPERT",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "SEO Open Source Enthusiast =) ",
+  "avatar": "https://github.com/turystahobby.png",
+  "tags": ["javascript", "typescript"],
+  "socials": [
+    { "platform": "SEO blog", "url": "https://seohobbyexpert.top" },
+    { "platform": "Backlink blog", "url": "https://backlink.seohobbyexpert.top" }
+  ],
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/turystahobby",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Medium",
+      "url": "https://medium.com/@turystahobby",
+      "icon": "medium"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started SEO blogs",
+      "date": "December 2020",
+      "icon": "dollar",
+      "color": "grey",
+      "description": "Stop trucking Start SEO in transport industry",
+      "url": "https://truckercheckin.com/"
+    }
+  ]
+}
